@@ -1,37 +1,5 @@
-# 布魯斯前端 React仿Instagram教學 初始專案
-
-## 如何使用此專案？
-
-1. 安裝依賴
-
-```
-npm i
-
-```
-
-2. 啟動專案
-
-```
-
-npm run start
-
-```
-
-## 如何美化程式碼排版？
-
-```
-
-npm run prettier
-
-```
-
-## 如何啟動Json server？
-
-```
-
-npm run server
-
-```
+試做以React-Redux搭配TypeScript管理追蹤狀態之Instagram
+以react-create-app為基礎，使用Tailwind跟styledcss為調整，再以mock data去模擬使用者在首頁他人狀態，亦會帶到追蹤列表，並能以Redux紀錄追蹤狀態。
 
 ## 測試API格式
 
